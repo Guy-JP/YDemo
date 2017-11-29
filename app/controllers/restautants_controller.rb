@@ -1,0 +1,2 @@
+class RestautantsController < ApplicationController
+end
